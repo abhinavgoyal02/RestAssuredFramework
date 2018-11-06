@@ -1,0 +1,17 @@
+{
+       "fields": {
+        "project": {
+            "key": "RAT"
+        },
+        "summary": "Automation Framework Created: Backend Issue 200",
+        "issuetype": {
+            "name": "Bug"
+        },
+        "assignee": {
+            "name": "abhinavgoyal02.prt"
+        },
+        "reporter": {
+            "name": "abhinavgoyal02.prt"
+        }
+    }
+}

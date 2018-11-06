@@ -1,0 +1,11 @@
+<PlaceAddRequest>
+	<location>
+		<lat>12.922999</lat>
+		<lng>77.666086</lng>
+	</location>
+	<accuracy>50</accuracy>
+	<name>Internal Road to ORR :-)!</name>
+	<type>shoe_store</type>
+	<website>http://www.google.com/</website>
+	<language>en-US</language>
+</PlaceAddRequest>
